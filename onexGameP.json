@@ -1,0 +1,15 @@
+{
+    "message": [
+        {
+            "app_name": "OnexGameParas",
+            "packagename": "paras",
+            "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+            "admob_OpenApp": "ca-app-pub-3940256099942544/3419835294",
+            "admob_Native":"ca-app-pub-3940256099942544/2247696110",
+            "ads_on":"0",
+            "quraka_link":"",
+            "termsAndCondition":"",
+            "privacy_policy": "",
+        }
+    ]
+}
