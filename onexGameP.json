@@ -1,15 +1,14 @@
-{
-    "message": [
-        {
-            "app_name": "hello ",
-            "packagename": "paras",
-            "banner": "ca-app-pub-3940256099942544/6300978111",
-            "native": "ca-app-pub-3940256099942544/2247696110",
-            "open_app" :"",
-            "privacy_policy": "",
-            "quraka_link": "",
-            "status": ""
-            
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "app_name": "0: Test",
+        "package_name":"",
+        "enable_google_admob_id": 0,
+        "google_admob_app_open_id": "ca-app-pub-3940256099942544/3419835294",
+        "google_admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+        "google_admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+        "google_admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+        "enable_quereka_link": 0,
+        "quereka_link": "",
+    },
+]
