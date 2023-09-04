@@ -2,7 +2,7 @@
     "message": [
         {
             "app_name": "expense Manager",
-            "update":0,
+            "package_name":"expense.manager.app",
             "appverion":"1.0.0",
             "Google_ads_onOff":0,
             "quraka_onOff":0,
