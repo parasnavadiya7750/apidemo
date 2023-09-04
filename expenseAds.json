@@ -2,6 +2,7 @@
     "message": [
         {
             "app_name": "expense Manager",
+            "ads_start":0,
             "packagename": "",
             "admob_banner": "",
             "admob_banner1": "",
