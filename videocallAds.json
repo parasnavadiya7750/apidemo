@@ -1,11 +1,11 @@
 {
     "message": [
         {
-            "app_name": "Video Call",
+            "app_name": "LiveTalk - Live Video Call",
             "Google_ads_onOff":0,
             "quraka_onOff":0,
             "quraka_link":"",
-            "packagename": "",
+            "packagename": "com.app.livetalkvideocall",
             "admob_openapp": "",
             "admob_banner": "",
             "admob_native": "",
