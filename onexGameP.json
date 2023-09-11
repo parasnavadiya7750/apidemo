@@ -1,14 +1,14 @@
 [
     {
         "id": 1,
-        "app_name": "1: Onex Game Clone",
-        "package_name":"",
+        "app_name": "1: Onex Bet",
+        "package_name":"app.onexbet.onexbet.onexbet",
         "enable_google_admob_id": 0,
         "google_admob_app_open_id": "",
         "google_admob_banner_id": "",
         "google_admob_interstitial_id": "",
         "google_admob_native_id": "",
         "enable_quereka_link": 0,
-        "quereka_link": "",
-    },
+        "quereka_link": ""
+    }
 ]
