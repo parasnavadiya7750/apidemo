@@ -3,7 +3,7 @@
         "id": 1,
         "app_name": "1: Onex Bet",
         "package_name":"app.onexbet.onexbet.onexbet",
-        "enable_google_admob_id": 0,
+        "enable_google_admob_id": 1,
         "google_admob_app_open_id": "ca-app-pub-3940256099942544/3419835294",
         "google_admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
         "google_admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
