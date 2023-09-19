@@ -1,14 +1,20 @@
-[
-    {
-        "id": 1,
-        "app_name": "1: Onex Bet",
-        "package_name":"app.onexbet.onexbet.onexbet",
-        "enable_google_admob_id": 0,
-        "google_admob_app_open_id": "ca-app-pub-3940256099942544/3419835294",
-        "google_admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-        "google_admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-        "google_admob_native_id": "ca-app-pub-3940256099942544/2247696110",
-        "enable_quereka_link": 0,
-        "quereka_link": ""
-    }
-]
+{
+            "app_name": "OneX Bet",
+            "Google_ads_onOff":0,
+            "quraka_onOff":0,
+            "quraka_link":"",
+            "packagename": "app.onexbet.onexbet.onexbet",
+            "admob_openapp": "",
+            "admob_banner": "",
+            "admob_native": "",
+            "admob_reward": "",
+            "admob_intervid": "",
+            "fb_banner": "",
+            "fb_inter": "",
+            "fb_native": "",
+            "fb_reward": "",
+            "fb_nativebanner": "",
+            "console": "abc",
+            "privacy_policy": "",
+            "terms_condition": ""
+}
