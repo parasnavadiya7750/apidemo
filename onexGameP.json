@@ -1,6 +1,6 @@
 {
             "app_name": "OneX Bet",
-            "Google_ads_onOff":0,
+            "Google_ads_onOff":1,
             "quraka_onOff":0,
             "quraka_link":"",
             "packagename": "app.onexbet.onexbet.onexbet",
