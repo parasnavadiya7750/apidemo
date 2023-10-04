@@ -1,27 +1,27 @@
 [
     {
         "userId": 1,
-        "name": "henisha",
-        "url": "https://incrown-obj-video.s3.eu-north-1.amazonaws.com/h.jpeg"
+        "name": "",
+        "url": ""
     },
     {
         "userId": 2,
-        "name": "disha",
-        "url": "https://incrown-obj-video.s3.eu-north-1.amazonaws.com/d.jpeg"
+        "name": "",
+        "url": ""
     },
     {
         "userId": 3,
-        "name": "dhruvi",
-        "url": "https://incrown-obj-video.s3.eu-north-1.amazonaws.com/dhruvi.jpeg"
+        "name": "",
+        "url": ""
     },
     {
         "userId": 4,
-        "name": "nidhi",
-        "url": "https://incrown-obj-video.s3.eu-north-1.amazonaws.com/n.jpeg"
+        "name": "",
+        "url": ""
     },
     {
         "userId": 5,
-        "name": "gautam",
-        "url": "https://incrown-obj-video.s3.eu-north-1.amazonaws.com/gautam.jpeg"
+        "name": "",
+        "url": ""
     }
 ]
