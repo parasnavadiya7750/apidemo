@@ -1,8 +1,8 @@
 {
     "app_name": "LiveTalk - Live Video Call",
     "packagename": "com.app.livetalkvideocall",
-    "quraka_onOff":0,
-    "quraka_link":"",
+    "quraka_onOff":1,
+    "quraka_link":"https://1113.go.qureka.com/",
     "admob_openapp_start": 0,
     "admob_banner_start": 0,
     "admob_native_start": 0,
