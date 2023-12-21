@@ -1,8 +1,8 @@
 {
             "app_name": "Cricket Guide App",
-            "Google_ads_onOff":1,
-            "quraka_onOff":0,
-            "quraka_link":"",
+            "Google_ads_onOff":0,
+            "quraka_onOff":1,
+            "quraka_link":"https://1113.go.qureka.com/",
             "packagename": "com.cricketguide.cricketguide",
             "admob_openapp": "ca-app-pub-3940256099942544/3419835294",
             "admob_banner": "ca-app-pub-3940256099942544/6300978111",
