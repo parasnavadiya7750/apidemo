@@ -4,7 +4,7 @@
     "quraka_onOff":1,
     "quraka_link":"http://1174.go.qureka.com/",
     "admob_openapp_start": 0,
-    "admob_banner_start": 1,
+    "admob_banner_start": 0,
     "admob_native_start": 1,
     "admob_reward_start": 0,
     "admob_intervid_start": 0,
