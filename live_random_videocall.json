@@ -1,8 +1,8 @@
 {
     "app_name": "Live Random Video Call App",
-    "packagename": "com.android.liverandomvideocall.liverandomvideocall",
-    "quraka_onOff":0,
-    "quraka_link":"https://1113.go.qureka.com/",
+    "packagename": "com.liverandom.videocallapp.liverandomvideocall",
+    "quraka_onOff":1,
+    "quraka_link":"http://1174.go.qureka.com/",
     "admob_openapp_start": 0,
     "admob_banner_start": 0,
     "admob_native_start": 0,
