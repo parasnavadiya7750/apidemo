@@ -2,7 +2,7 @@
     "app_name": "Cricket Guide App",
     "packagename": "com.cricketguide.cricketguide",
     "quraka_onOff":1,
-    "back_quraka_onOff":1,
+    "back_quraka_onOff":0,
     "quraka_link":"http://1174.go.qureka.com/",
     "admob_openapp_start": 0,
     "admob_banner_start": 1,
